@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kapil Pandya - a recent software graduate from Toronto, Canada.
 - 👀 I’m interested in developing various applications on all the major platforms like mobile and web.
-- 🌱 I’m currently learning Python and Kotlin. I had already developed several projects in Android(Java), C# (ASP .Net), ReactJS, Flutter and React Native. I had also achieved AWS Cloud Practitioner Certification from AWS as I am looking to expand my career in cloud technologies too.
+- 🌱 I’m currently learning Python and Kotlin. I had already developed several projects in Android (Java), C# (ASP .Net), ReactJS, Flutter (Dart) and React Native. I had also achieved AWS Cloud Practitioner Certification from AWS as I am looking to expand my career in cloud technologies too.
 - 💞️ I’m looking currently looking for a full-time job as a developer as I'm comfortable in any technologies that have been offered to me.
 - 📫 You can reach me at - kapilpandya.uix@gmail.com.
 <!---
